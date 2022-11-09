@@ -61,7 +61,7 @@
     "clean-css": "^5.3.1",
     "cli-table3": "^0.6.2",
     "combine-promises": "^1.1.0",
-    "commander": "^5.1.0",
+    "commander": "^9.4.1",
     "copy-webpack-plugin": "^11.0.0",
     "core-js": "^3.25.1",
     "css-loader": "^6.7.1",
