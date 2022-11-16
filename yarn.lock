@@ -15266,13 +15266,13 @@ to-regex@^3.0.1, to-regex@^3.0.2:
     regex-not "^1.0.2"
     safe-regex "^1.1.0"
 
-to-vfile@^6.1.0:
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/to-vfile/-/to-vfile-6.1.0.tgz#5f7a3f65813c2c4e34ee1f7643a5646344627699"
-  integrity sha512-BxX8EkCxOAZe+D/ToHdDsJcVI4HqQfmw0tCkp31zf3dNP/XWIAjU4CmeuSwsSoOzOTqHPOL0KUzyZqJplkD0Qw==
+to-vfile@^7.2.3:
+  version "7.2.3"
+  resolved "https://registry.yarnpkg.com/to-vfile/-/to-vfile-7.2.3.tgz#4e54ad10878901703f1a956a33ba4f131c31eef7"
+  integrity sha512-QO0A9aE6Z/YkmQadJ0syxpmNXtcQiu0qAtCKYKD5cS3EfgfFTAXfgLX6AOaBrSfWSek5nfsMf3gBZ9KGVFcLuw==
   dependencies:
     is-buffer "^2.0.0"
-    vfile "^4.0.0"
+    vfile "^5.1.0"
 
 toidentifier@1.0.1:
   version "1.0.1"
@@ -15985,10 +15985,10 @@ vfile@^4.0.0:
     unist-util-stringify-position "^2.0.0"
     vfile-message "^2.0.0"
 
-vfile@^5.0.0:
-  version "5.3.4"
-  resolved "https://registry.yarnpkg.com/vfile/-/vfile-5.3.4.tgz#bbb8c96b956693bbf70b2c67fdb5781dff769b93"
-  integrity sha512-KI+7cnst03KbEyN1+JE504zF5bJBZa+J+CrevLeyIMq0aPU681I2rQ5p4PlnQ6exFtWiUrg26QUdFMnAKR6PIw==
+vfile@^5.0.0, vfile@^5.1.0:
+  version "5.3.5"
+  resolved "https://registry.yarnpkg.com/vfile/-/vfile-5.3.5.tgz#ec2e206b1414f561c85b7972bb1eeda8ab47ee61"
+  integrity sha512-U1ho2ga33eZ8y8pkbQLH54uKqGhFJ6GYIHnnG5AhRpAh3OWjkrRHKa/KogbmQn8We+c0KVV3rTOgR9V/WowbXQ==
   dependencies:
     "@types/unist" "^2.0.0"
     is-buffer "^2.0.0"
